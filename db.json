@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "name": "KFC",
+      "address": "Bangalore, India",
+      "email": "snadeep@kfc.co.in",
+      "id": 1
+    },
+    {
+      "name": "Southy",
+      "address": "Delhi, India",
+      "email": "sandeep@southy.com",
+      "id": 2
+    }
+  ]
+}
